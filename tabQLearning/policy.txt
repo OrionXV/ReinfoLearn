@@ -1,0 +1,10 @@
+S → → ↓ W ↑ W ↑ W W
+↑ ↑ W ↓ ↓ W W ↑ W W
+W ↓ W → → → ↓ W ↓ ↓
+→ → → ↑ ↑ W ↓ W ↑ ←
+W → ↑ W W W ↓ ↓ ← W
+W W W ↑ W W ↓ ↓ ← ←
+↑ ↑ ↑ W W W → ↓ ← W
+W W ↑ W ← W W ↓ W ↑
+↑ ↑ W W → W → → ↓ W
+↑ ↑ W ↑ ← ← ↑ W → F
